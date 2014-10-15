@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://Joke-Dk.github.io/blog/2014/10/15/simple-configuration-linux-vim/</loc>
+    <loc>http://dingke.me/blog/2014/10/15/simple-configuration-linux-vim/</loc>
     
     <lastmod>2014-10-15T21:12:28+08:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog/</loc>
+    <loc>http://dingke.me/blog/2014/10/15/Hello-Blog/</loc>
     
     <lastmod>2014-10-15T00:00:00+08:00</lastmod>
     
@@ -20,22 +20,22 @@
   
   
   <url>
-    <loc>http://Joke-Dk.github.io/blog/archives/</loc>
-    <lastmod>2014-10-15T21:21:56+08:00</lastmod>
+    <loc>http://dingke.me/blog/archives/</loc>
+    <lastmod>2014-10-15T21:29:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://Joke-Dk.github.io/</loc>
-    <lastmod>2014-10-15T21:21:56+08:00</lastmod>
+    <loc>http://dingke.me/</loc>
+    <lastmod>2014-10-15T21:29:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://Joke-Dk.github.io/search.html</loc>
-    <lastmod>2014-10-15T21:21:56+08:00</lastmod>
+    <loc>http://dingke.me/search.html</loc>
+    <lastmod>2014-10-15T21:29:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

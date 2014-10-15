@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Joke-Dk.github.io/sitemap.xml 
+Sitemap: http://dingke.me/sitemap.xml 

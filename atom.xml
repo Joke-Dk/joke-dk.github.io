@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Dingke Blog]]></title>
-  <link href="http://Joke-Dk.github.io/atom.xml" rel="self"/>
-  <link href="http://Joke-Dk.github.io/"/>
-  <updated>2014-10-15T21:21:56+08:00</updated>
-  <id>http://Joke-Dk.github.io/</id>
+  <link href="http://dingke.me/atom.xml" rel="self"/>
+  <link href="http://dingke.me/"/>
+  <updated>2014-10-15T21:29:06+08:00</updated>
+  <id>http://dingke.me/</id>
   <author>
     <name><![CDATA[Ding]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Simple Configuration Linux vim]]></title>
-    <link href="http://Joke-Dk.github.io/blog/2014/10/15/simple-configuration-linux-vim/"/>
+    <link href="http://dingke.me/blog/2014/10/15/simple-configuration-linux-vim/"/>
     <updated>2014-10-15T21:12:28+08:00</updated>
-    <id>http://Joke-Dk.github.io/blog/2014/10/15/simple-configuration-linux-vim</id>
+    <id>http://dingke.me/blog/2014/10/15/simple-configuration-linux-vim</id>
     <content type="html"><![CDATA[<p>First, you need to new your .vimrc file under ~(/home) dictionary
 (default dir is /etc/vim/vimrc)</p>
 
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Blog]]></title>
-    <link href="http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog/"/>
+    <link href="http://dingke.me/blog/2014/10/15/Hello-Blog/"/>
     <updated>2014-10-15T00:00:00+08:00</updated>
-    <id>http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog</id>
+    <id>http://dingke.me/blog/2014/10/15/Hello-Blog</id>
     <content type="html"><![CDATA[<p>I first learn to how to use Octopress and change theme!</p>
 ]]></content>
   </entry>
