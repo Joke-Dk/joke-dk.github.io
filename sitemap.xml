@@ -3,15 +3,7 @@
   
   
   <url>
-    <loc>http://Joke-Dk.github.io/blog/2014/10/15/helloworld/</loc>
-    
-    <lastmod>2014-10-15T19:15:18+08:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://Joke-Dk.github.io/blog/2014/10/15/post-helloworld/</loc>
+    <loc>http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog/</loc>
     
     <lastmod>2014-10-15T00:00:00+08:00</lastmod>
     
@@ -21,21 +13,21 @@
   
   <url>
     <loc>http://Joke-Dk.github.io/blog/archives/</loc>
-    <lastmod>2014-10-15T19:15:58+08:00</lastmod>
+    <lastmod>2014-10-15T19:29:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://Joke-Dk.github.io/</loc>
-    <lastmod>2014-10-15T19:15:58+08:00</lastmod>
+    <lastmod>2014-10-15T19:29:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://Joke-Dk.github.io/search.html</loc>
-    <lastmod>2014-10-15T19:15:58+08:00</lastmod>
+    <lastmod>2014-10-15T19:29:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

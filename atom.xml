@@ -4,7 +4,7 @@
   <title><![CDATA[Dingke Blog]]></title>
   <link href="http://Joke-Dk.github.io/atom.xml" rel="self"/>
   <link href="http://Joke-Dk.github.io/"/>
-  <updated>2014-10-15T19:15:58+08:00</updated>
+  <updated>2014-10-15T19:29:27+08:00</updated>
   <id>http://Joke-Dk.github.io/</id>
   <author>
     <name><![CDATA[Ding]]></name>
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[helloworld]]></title>
-    <link href="http://Joke-Dk.github.io/blog/2014/10/15/helloworld/"/>
-    <updated>2014-10-15T19:15:18+08:00</updated>
-    <id>http://Joke-Dk.github.io/blog/2014/10/15/helloworld</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post Helloworld]]></title>
-    <link href="http://Joke-Dk.github.io/blog/2014/10/15/post-helloworld/"/>
+    <title type="html"><![CDATA[Hello Blog]]></title>
+    <link href="http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog/"/>
     <updated>2014-10-15T00:00:00+08:00</updated>
-    <id>http://Joke-Dk.github.io/blog/2014/10/15/post-helloworld</id>
+    <id>http://Joke-Dk.github.io/blog/2014/10/15/Hello-Blog</id>
     <content type="html"><![CDATA[<p>I first learn to how to use Octopress and change theme!</p>
 ]]></content>
   </entry>
