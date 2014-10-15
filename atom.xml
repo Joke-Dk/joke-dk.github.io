@@ -4,7 +4,7 @@
   <title><![CDATA[Dingke Blog]]></title>
   <link href="http://dingke.me/atom.xml" rel="self"/>
   <link href="http://dingke.me/"/>
-  <updated>2014-10-15T21:29:06+08:00</updated>
+  <updated>2014-10-15T22:37:07+08:00</updated>
   <id>http://dingke.me/</id>
   <author>
     <name><![CDATA[Ding]]></name>
@@ -18,8 +18,9 @@
     <link href="http://dingke.me/blog/2014/10/15/simple-configuration-linux-vim/"/>
     <updated>2014-10-15T21:12:28+08:00</updated>
     <id>http://dingke.me/blog/2014/10/15/simple-configuration-linux-vim</id>
-    <content type="html"><![CDATA[<p>First, you need to new your .vimrc file under ~(/home) dictionary
-(default dir is /etc/vim/vimrc)</p>
+    <content type="html"><![CDATA[<p>First, you need to new your .vimrc file under ~(/home) dictionary</p>
+
+<p>(default dir is /etc/vim/vimrc)</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -66,7 +67,7 @@
   <entry>
     <title type="html"><![CDATA[Hello Blog]]></title>
     <link href="http://dingke.me/blog/2014/10/15/Hello-Blog/"/>
-    <updated>2014-10-15T00:00:00+08:00</updated>
+    <updated>2014-10-15T20:12:28+08:00</updated>
     <id>http://dingke.me/blog/2014/10/15/Hello-Blog</id>
     <content type="html"><![CDATA[<p>I first learn to how to use Octopress and change theme!</p>
 ]]></content>
