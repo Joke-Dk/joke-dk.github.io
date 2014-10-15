@@ -4,7 +4,7 @@
   <title><![CDATA[Dingke Blog]]></title>
   <link href="http://Joke-Dk.github.io/atom.xml" rel="self"/>
   <link href="http://Joke-Dk.github.io/"/>
-  <updated>2014-10-15T19:29:27+08:00</updated>
+  <updated>2014-10-15T21:21:56+08:00</updated>
   <id>http://Joke-Dk.github.io/</id>
   <author>
     <name><![CDATA[Ding]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Simple Configuration Linux vim]]></title>
+    <link href="http://Joke-Dk.github.io/blog/2014/10/15/simple-configuration-linux-vim/"/>
+    <updated>2014-10-15T21:12:28+08:00</updated>
+    <id>http://Joke-Dk.github.io/blog/2014/10/15/simple-configuration-linux-vim</id>
+    <content type="html"><![CDATA[<p>First, you need to new your .vimrc file under ~(/home) dictionary
+(default dir is /etc/vim/vimrc)</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">cd</span> ~
+</span><span class='line'>vi .vimrc
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Then, you can add your custom options in the .vimrc file.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">set </span>nocompatible   <span class="c">#不使用vi默认键盘布局</span>
+</span><span class='line'><span class="nb">set </span>number    <span class="c">#显示行号</span>
+</span><span class='line'><span class="nb">set </span>autoindent    <span class="c">#自动对齐</span>
+</span><span class='line'><span class="nb">set </span>smartindent   <span class="c">#智能对齐</span>
+</span><span class='line'><span class="nb">set </span>showmatch <span class="c">#括号匹配模式</span>
+</span><span class='line'><span class="nb">set </span>ruler <span class="c">#显示状态行</span>
+</span><span class='line'><span class="nb">set </span>incsearch <span class="c">#查询时非常方便，如要查找book单词，当输入到/b时</span>
+</span><span class='line'><span class="nb">set </span><span class="nv">tabstop</span><span class="o">=</span>4  <span class="c">#tab键为4个空格</span>
+</span><span class='line'><span class="nb">set </span><span class="nv">shiftwidth</span><span class="o">=</span>4   <span class="c">#换行时行间交错使用4个空格</span>
+</span><span class='line'><span class="nb">set </span><span class="nv">softtabstop</span><span class="o">=</span>4  <span class="c">#设置（软）制表符宽度为4</span>
+</span><span class='line'><span class="nb">set </span>cindent   <span class="c">#C语言格式对齐</span>
+</span><span class='line'><span class="nb">set </span>nobackup  <span class="c">#不要备份文件</span>
+</span><span class='line'><span class="nb">set </span>clipboard+<span class="o">=</span>unnamed <span class="c">#与windows共享剪贴板</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now the configure step is finish.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Blog]]></title>
